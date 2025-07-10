@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine_Learning/MLProject1/mlruns/0/cd43bd5f895d470a8e025af658bd828b/artifacts
+end_time: 1752127190016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd43bd5f895d470a8e025af658bd828b
+run_name: popular-panda-68
+run_uuid: cd43bd5f895d470a8e025af658bd828b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752127186596
+status: 3
+tags: []
+user_id: root

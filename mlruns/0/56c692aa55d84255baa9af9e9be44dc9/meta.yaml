@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine_Learning/MLProject1/mlruns/0/56c692aa55d84255baa9af9e9be44dc9/artifacts
+end_time: 1752126910828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56c692aa55d84255baa9af9e9be44dc9
+run_name: loud-fowl-683
+run_uuid: 56c692aa55d84255baa9af9e9be44dc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752126900714
+status: 4
+tags: []
+user_id: root
